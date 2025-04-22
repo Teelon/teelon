@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hey, I'm Teelon!
 
-<!--
-**Teelon/teelon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🕵️‍♂️ Data Detective & Tech Wizard
 
-Here are some ideas to get you started:
+Turning numbers into narratives and bugs into features since 2019! Data analyst by day, code tinkerer by night. Currently translating coffee into insights at Northeastern University.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧙‍♂️ Magic Spells (Skills)
+
+```
+🔮 Python, R, SQL     🎨 Power BI, Tableau     🚀 React, Next.js     
+☁️ GCP, BigQuery      🤖 Machine Learning      🛠️ IT Problem Solving
+```
+
+## 🏆 Cool Stuff I Built
+
+- **Cricket Scorekeeper 2.0**: Bowled out Excel with a slick Next.js & MongoDB app
+- **Sentiment Detector**: Taught a computer to understand Twitter feelings with 85% accuracy
+- **Big Data Wrangler**: Tamed wild datasets with Hadoop, Spark & friends
+
+## 💬 Let's Connect!
+
+[LinkedIn](https://www.linkedin.com/in/teelon-mitchell/) | teelon@live.com
+
+*"In God we trust. All others must bring data."*
